@@ -1,4 +1,4 @@
-# primera entrega proyecto NODE.J
+# primera entrega proyecto NODE.JS
 
 EJECUCION
 
